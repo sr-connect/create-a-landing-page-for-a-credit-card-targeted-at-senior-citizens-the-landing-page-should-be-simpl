@@ -1,0 +1,2 @@
+# create-a-landing-page-for-a-credit-card-targeted-at-senior-citizens-the-landing-page-should-be-simpl
+AI-generated application: Create a landing page for a credit card targeted at senior citizens. The landing page should be simple, easy to navigate, and highlight benefits relevant to seniors, such as travel rewards, cashback on everyday purchases, and low interest rates. It should have a clear call-to-action to apply for the card.
